@@ -1,6 +1,6 @@
 # Movie App Build In ReactJs
 
-If you love Robin hood !! You can Find all Robin Hood Movies in our.
+You love adventure movies ? One of Robin Hood fans ? Then you are lucky, you can find all his movies on our website !
 
 #We use APi tvmaze 
 *  `https://api.tvmaze.com/search/shows?q=robin%20hood`
