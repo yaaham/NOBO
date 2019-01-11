@@ -2,7 +2,7 @@
 
 You love adventure movies ? One of Robin Hood fans ? Then you are lucky, you can find all his movies on our website !
 
-#We use APi tvmaze 
+## tvmaze APi  
 *  `https://api.tvmaze.com/search/shows?q=robin%20hood`
 ## Installation
 * `git clone https://github.com/yaaham/Nobo`
